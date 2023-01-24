@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Framer
 
-## Getting Started
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c9c0cf0-4d48-4eec-b427-0fa200e01ea5/deploy-status)](https://app.netlify.com/sites/framer14/deploys)
 
-First, run the development server:
+Framer is a landing page App built with Next.js that simulates a Mock for the [Framer Platform](https://framer.com).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot](preview.png) 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Demo
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-b48e-f1cc7a7d73c8.mp4
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Instructions, Building & Get Started 
+    - 1- Fork, clone or download this repository to your local machine.
+    - 2- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.
+    - 3- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
+    - 4- inside your terminal run these commands:-
+    
+        * to install dependencies.
+        ```
+        yarn
+        ```
+        * to start the server.
+        ```
+        yarn dev
+        ```
+    - 5- Once the app server is running visit (localhost:3000) in the browser to view the app and now you can treat with it as shown above in the Demo.
 
-## Learn More
+    - 6- You can also see a live preview of the app from this Link (https://cinema-universe.netlify.app/)
 
-To learn more about Next.js, take a look at the following resources:
+## Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* HTML
+* CSS
+* JS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Libraries & Packages
 
-## Deploy on Vercel
+* [Styled Components](https://styled-components.com/)
+* [React Slick](https://www.npmjs.com/package/react-slick)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Frameworks 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [React.js](https://reactjs.org/)
+* [Next.js](https://nextjs.org)  
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [Material UI](https://mui.com)
+
+## Author
+
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/) 
+
+## Contact me through my social accounts
+
+* Email: mohamed.k.elhawary@gmail.com  
+
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
+
+* [Codepen](https://codepen.io/Mohamed-ElHawary)
+
+* [Behance](https://www.behance.net/mohamed-elhawary14)
+
+## License
+
+Licensed under the [MIT License](LICENSE)
