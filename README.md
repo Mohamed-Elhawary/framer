@@ -12,6 +12,7 @@ Framer is a landing page App built with Next.js that simulates a Mock for the [F
 https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-b48e-f1cc7a7d73c8.mp4
 
 ## Instructions, Building & Get Started 
+
     - 1- Fork, clone or download this repository to your local machine.
     - 2- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.
     - 3- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
