@@ -4,7 +4,6 @@
 
 Framer is a landing page website that simulates a Mock for the [Framer Platform](https://framer.com).
 
-
 ![Screenshot](preview.png) 
 
 ## Demo
@@ -27,7 +26,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
         yarn dev
         ```
     - 5- Once the App server is running visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
-    - 6- You can also see a live preview of the app from this Link (https://framer14.netlify.app/)
+    - 6- You can also see a live preview of the App from this Link (https://framer14.netlify.app/)
 
 ## Built With
 
