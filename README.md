@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
     - 1- Fork, clone or download this repository to your local machine.
     - 2- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.
     - 3- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
-    - 4- inside your terminal run these commands:-
+    - 4- Inside your terminal run these commands:-
     
         * to install dependencies.
         ```

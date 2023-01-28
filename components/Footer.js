@@ -1,8 +1,20 @@
-import { Box, Button, Grid, Typography } from "@mui/material";
+import { Button, Grid, Typography } from "@mui/material";
 import Link from "next/link";
-import React from "react";
+import React, { useEffect, useState } from "react";
+import { 
+    AiFillLinkedin, 
+    AiFillGithub, 
+    AiFillCodepenCircle, 
+    AiFillBehanceCircle 
+} from "react-icons/ai";
 
 function Footer() {
+    const [domLoaded, setDomLoaded] = useState(false);
+
+    useEffect(() => {
+        setDomLoaded(true);
+    }, []);
+
     return (
         <footer
             style={{
@@ -140,6 +152,59 @@ function Footer() {
                     </ul>
                 </Grid>
             </Grid>
+            {domLoaded && (
+                <div 
+                    style={{
+                        textAlign: "center",
+                        padding: "10% 0 0 0",
+                    }}
+                >
+                    All Rights reserved &copy; {new Date().getFullYear()}, <a href="https://github.com/Mohamed-Elhawary/framer" target="_blank">Framer</a> {/* eslint-disable-line */}
+                    <p>
+                        <div 
+                            style={{ 
+                                display: "flex",
+                                justifyContent: "center",
+                            }}
+                        >
+                            Made by: 
+                            {/* eslint-disable-next-line */}
+                            <a 
+                                href="https://www.linkedin.com/in/mohamed-elhawary14/" 
+                                target="_blank"
+                            >  
+                                <img 
+                                    src="/signature.png" 
+                                    alt="signature" 
+                                    width="100" 
+                                    height="40" 
+                                    style={{ 
+                                        position: "relative",
+                                        bottom: "10px",
+                                        left: "10px",
+                                        borderRadius: "12px",
+                                        boxShadow: "1px 2px 10px #ccc"
+                                    }}
+                                />
+                            </a>
+                        </div>
+                    </p> 
+                    <ul 
+                        style={{
+                            listStyle: "none",
+                            padding: "0",
+                            display: "flex",
+                            gap: "10px",
+                            justifyContent: "center",
+                        }}
+                    >
+                        <li className="mr-3"><a href="https://www.linkedin.com/in/mohamed-elhawary14/" target="_blank"><AiFillLinkedin size={30} /></a></li> {/* eslint-disable-line */}
+                        <li className="mr-3"><a href="https://github.com/Mohamed-Elhawary" target="_blank"><AiFillGithub size={30} /></a></li> {/* eslint-disable-line */}
+                        <li className="mr-3"><a href="https://codepen.io/Mohamed-ElHawary" target="_blank"><AiFillCodepenCircle size={30} /></a></li> {/* eslint-disable-line */}
+                        <li className="mr-3"><a href="https://www.behance.net/mohamed-elhawary14" target="_blank"><AiFillBehanceCircle size={30} /></a></li> {/* eslint-disable-line */}
+                    </ul>
+                </div>
+            )}
         </footer>
     );
 }
