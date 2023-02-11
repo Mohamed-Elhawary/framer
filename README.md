@@ -40,6 +40,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
 
 * [Styled Components](https://styled-components.com/)
 * [React Slick](https://www.npmjs.com/package/react-slick)
+* [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Frameworks 
 
