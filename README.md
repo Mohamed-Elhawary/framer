@@ -4,7 +4,7 @@
 
 Framer is a landing page website that simulates a Mock for the [Framer Platform](https://framer.com).
 
-You can view the App from [here](https://framer14.netlify.app/)
+You can view the website from [here](https://framer14.netlify.app/)
 
 ![Screenshot](preview.png) 
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
 
     - 1- Fork, clone or download this repository to your local machine.
     - 2- Be sure that you install the Node.js environment in your machine.
-    - 3- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
+    - 3- Open your terminal and be sure that you are inside the correct destination of the website, while you must be in the same path of the package.json file.
     - 4- Inside your terminal run these commands:-
     
         * to install dependencies.
@@ -27,8 +27,8 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
         ```
         yarn dev
         ```
-    - 5- Once the App server is running, visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
-    - 6- You can also see a live preview of the App from this link (https://framer14.netlify.app/)
+    - 5- Once the website server is running, visit (localhost:3000) in the browser to view the website and now you can treat with it as shown above in the Demo.
+    - 6- You can also see a live preview of the website from this link (https://framer14.netlify.app/)
 
 ## Built With
 
