@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
     - 5- Once the website server is running, visit (localhost:3000) in the browser to view the website and now you can treat with it as shown above in the Demo.
     - 6- You can also see a live preview of the website from this link (https://framer14.netlify.app/)
 
-## Built With
+## Built with
 
 * HTML
 * CSS
@@ -44,8 +44,8 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
 
 ## Frameworks 
 
-* [React.js](https://reactjs.org/)
-* [Next.js](https://nextjs.org)  
+* [React](https://reactjs.org/)
+* [Next](https://nextjs.org)  
 * [React Bootstrap](https://react-bootstrap.github.io/)
 * [Material UI](https://mui.com)
 
@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/69651552/214382467-d241abb1-f5bb-493a-
 ## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 * [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
