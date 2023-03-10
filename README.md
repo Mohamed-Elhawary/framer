@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3c9c0cf0-4d48-4eec-b427-0fa200e01ea5/deploy-status)](https://app.netlify.com/sites/framer14/deploys)
 
-Framer is a landing page website that simulates a Mock for the [Framer Platform](https://framer.com).
+Framer is a landing page website that simulates a Mock for the [Framer platform](https://framer.com).
 
 You can view the website from [here](https://framer14.netlify.app/)
 
